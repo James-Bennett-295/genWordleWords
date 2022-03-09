@@ -1,0 +1,22 @@
+{
+  "name": "genwordlewords",
+  "version": "1.0.0",
+  "description": "Generate a file of random words!",
+  "main": "./genWordleWords.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Bennett-295/genWordleWords.git"
+  },
+  "keywords": [
+    "wordle",
+    "random",
+    "words"
+  ],
+  "author": "James Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/James-Bennett-295/genWordleWords/issues"
+  },
+  "homepage": "https://github.com/James-Bennett-295/genWordleWords#readme"
+}
